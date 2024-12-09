@@ -1,0 +1,11 @@
+
+
+	void printMadlib(char madlib[][100], int lines) {
+	  for (int i = 0; i < lines; i++) {
+	  printf("s\n", madlib[i]);
+	  }
+	  }
+	  
+	  void closeFile(File *file) {
+	  fclose(file);
+	  }
