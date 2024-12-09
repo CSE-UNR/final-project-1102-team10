@@ -9,3 +9,6 @@
 	  void closeFile(File *file) {
 	  fclose(file);
 	  }
+
+return 0;
+}
